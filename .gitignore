@@ -1,0 +1,5 @@
+*.mod
+*.o
+mapviewer2
+mqttCredentials.f90
+SDL2

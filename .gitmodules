@@ -1,0 +1,3 @@
+[submodule "fortran-SDL2"]
+	path = fortran-SDL2
+	url = https://github.com/interkosmos/fortran-sdl2
