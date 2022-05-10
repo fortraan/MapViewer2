@@ -1,3 +1,5 @@
+*Note: This is a tool I wrote while I was taking RBE2002 at WPI.*
+
 # MapViewer2
 Team 17's MQTT map viewer, implemented in Fortran. MQTT connectivity is via [fortran-paho](https://github.com/interkosmos/fortran-paho) and GUI is via [fortran-SDL2](https://github.com/interkosmos/fortran-sdl2).
 
